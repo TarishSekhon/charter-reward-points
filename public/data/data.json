@@ -1,0 +1,332 @@
+[
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "14df2de1-51cb-489d-8c66-b6d126d31570",
+        "transaction_date": "10-10-2020",
+        "transaction_amount": 457
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "58a43779-ac1d-448d-950b-af525865c915",
+        "transaction_date": "10-25-2020",
+        "transaction_amount": 188
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "66470b8f-aea0-4e96-b72f-c6152dcaf08e",
+        "transaction_date": "10-6-2020",
+        "transaction_amount": 427
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "aece8c7f-349d-46d4-9d92-e6fbaf786b77",
+        "transaction_date": "10-13-2020",
+        "transaction_amount": 59
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "f99bb411-7b21-400b-9c1f-a1e17d70c95c",
+        "transaction_date": "10-20-2020",
+        "transaction_amount": 483
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "6c3f408a-fcb6-48a4-b79c-3da6d2508391",
+        "transaction_date": "11-17-2020",
+        "transaction_amount": 121
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "e34cfe3f-1757-41ef-8724-44f3bedcd61b",
+        "transaction_date": "11-8-2020",
+        "transaction_amount": 238
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "e82395f9-8e56-4715-89fd-18616259b341",
+        "transaction_date": "11-28-2020",
+        "transaction_amount": 43
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "b3d4802a-abfb-4d64-a161-889debc8e7be",
+        "transaction_date": "12-2-2020",
+        "transaction_amount": 456
+    },
+    {
+        "customer_name": "Joesph Parra",
+        "customer_id": "9dbbeafb-d0f8-4041-b4e4-af9a98998440",
+        "transaction_date": "12-11-2020",
+        "transaction_amount": 411
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "fcd3f8af-2cbf-41e2-868e-765c703c8c87",
+        "transaction_date": "10-4-2020",
+        "transaction_amount": 198
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "0de944a0-3fd6-4fab-88cc-3b6a4d8f10c6",
+        "transaction_date": "10-11-2020",
+        "transaction_amount": 185
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "0d3239cc-0271-443a-a118-321318da799e",
+        "transaction_date": "10-16-2020",
+        "transaction_amount": 225
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "a9dda0b1-4ddb-4040-81d1-a1a1821d6209",
+        "transaction_date": "10-25-2020",
+        "transaction_amount": 25
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "db3f8f1a-8896-4d72-a4fc-8d8f0ecf03cc",
+        "transaction_date": "11-17-2020",
+        "transaction_amount": 234
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "9f0fc026-a785-4015-b41b-14502d07d2f4",
+        "transaction_date": "11-22-2020",
+        "transaction_amount": 397
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "244d8bfc-4d89-44d6-b3b9-e3be886044dd",
+        "transaction_date": "11-18-2020",
+        "transaction_amount": 461
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "3f24ce4b-b77f-4ed5-b8a0-2453c587fe05",
+        "transaction_date": "11-16-2020",
+        "transaction_amount": 120
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "d43a8f07-56d8-47e7-9c8b-671888000453",
+        "transaction_date": "11-28-2020",
+        "transaction_amount": 118
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "0d610cbd-7bf9-4e5b-b3d8-928fadd2e9d4",
+        "transaction_date": "11-18-2020",
+        "transaction_amount": 102
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "72a2043a-8b04-4097-a5e3-d815f3ad6aa2",
+        "transaction_date": "12-5-2020",
+        "transaction_amount": 113
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "86f886b7-3ff3-45ff-b793-a5a3ba059fd1",
+        "transaction_date": "12-11-2020",
+        "transaction_amount": 343
+    },
+    {
+        "customer_name": "Billy Hodge",
+        "customer_id": "7fc16fb4-6fee-4e2a-8ee6-762f612b5319",
+        "transaction_date": "12-6-2020",
+        "transaction_amount": 497
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "432ecc06-8c31-4e77-8a00-7c62239c7aa4",
+        "transaction_date": "10-17-2020",
+        "transaction_amount": 275
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "52116621-b841-4efd-9db8-099a36e74710",
+        "transaction_date": "10-29-2020",
+        "transaction_amount": 461
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "159915d5-5cae-494c-9ded-fc469942c658",
+        "transaction_date": "10-22-2020",
+        "transaction_amount": 231
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "b0770852-cc07-4c1e-98d7-2cccd7ebf9d3",
+        "transaction_date": "10-27-2020",
+        "transaction_amount": 337
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "80378e35-22a8-4392-8519-a5d6921c8293",
+        "transaction_date": "10-7-2020",
+        "transaction_amount": 437
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "aa1e85a3-53b1-49c1-9762-921af22950ff",
+        "transaction_date": "10-2-2020",
+        "transaction_amount": 332
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "b2ba1457-c0ec-4be0-b37d-de8dcf073b9a",
+        "transaction_date": "10-7-2020",
+        "transaction_amount": 197
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "2191545a-742b-42cb-9b63-3e64351137ff",
+        "transaction_date": "11-11-2020",
+        "transaction_amount": 360
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "9b55d5f3-1e06-4fcc-87a7-e64ff541724f",
+        "transaction_date": "11-8-2020",
+        "transaction_amount": 205
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "149c94e5-d8ff-4ddd-8d4d-092900e1b0d4",
+        "transaction_date": "11-18-2020",
+        "transaction_amount": 215
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "465e6001-b7ff-4905-8aca-077d1e293e9f",
+        "transaction_date": "11-24-2020",
+        "transaction_amount": 416
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "0d6aeea6-ef27-4816-9c98-ec935263e03c",
+        "transaction_date": "12-17-2020",
+        "transaction_amount": 93
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "092737e8-3abc-4d89-9db7-f966915847d1",
+        "transaction_date": "12-24-2020",
+        "transaction_amount": 105
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "7cd040af-694c-49e4-baf9-d1891b01d680",
+        "transaction_date": "12-16-2020",
+        "transaction_amount": 27
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "67e3310d-29e8-4ede-b6d3-4d994831bc58",
+        "transaction_date": "12-27-2020",
+        "transaction_amount": 417
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "9987319a-1190-428f-a73c-9459fed0a08c",
+        "transaction_date": "12-27-2020",
+        "transaction_amount": 147
+    },
+    {
+        "customer_name": "Mary Rios",
+        "customer_id": "03bd40e1-23ac-458d-9a5a-54e511c10477",
+        "transaction_date": "12-17-2020",
+        "transaction_amount": 297
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "d10919eb-8645-422d-9911-a142f980571c",
+        "transaction_date": "10-11-2020",
+        "transaction_amount": 91
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "f02d684c-eafd-461d-82e6-dce5bca3f894",
+        "transaction_date": "10-22-2020",
+        "transaction_amount": 91
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "5fc85dd0-0cac-42c6-aaa8-1e5f1d3c14bb",
+        "transaction_date": "10-6-2020",
+        "transaction_amount": 405
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "1c5a72d9-4538-4de8-93c0-8b61670f8dae",
+        "transaction_date": "10-13-2020",
+        "transaction_amount": 144
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "bae9a3f1-2656-4235-a783-c4174ac5f542",
+        "transaction_date": "10-17-2020",
+        "transaction_amount": 430
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "c5d2ebba-1453-4d1d-89c6-de4f33e45f79",
+        "transaction_date": "10-20-2020",
+        "transaction_amount": 110
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "a6653488-6dfe-48c1-b785-f72c6aaefe11",
+        "transaction_date": "10-28-2020",
+        "transaction_amount": 222
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "ef80a1c9-5263-4500-be37-a3bccbb7eb9b",
+        "transaction_date": "11-7-2020",
+        "transaction_amount": 321
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "8627e233-7f5a-4713-8e99-25451e4ef729",
+        "transaction_date": "11-28-2020",
+        "transaction_amount": 264
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "92c7716b-5015-4441-8e1f-f18edc5e1853",
+        "transaction_date": "11-14-2020",
+        "transaction_amount": 458
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "7b694f38-088a-42ce-b414-f326955ab74b",
+        "transaction_date": "11-14-2020",
+        "transaction_amount": 147
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "94d3fce9-b2ae-432c-998b-6032ed775ccd",
+        "transaction_date": "11-27-2020",
+        "transaction_amount": 235
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "8955c1f2-5eb9-49f2-92b0-e0a6b4958fac",
+        "transaction_date": "12-11-2020",
+        "transaction_amount": 339
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "58e4bc8c-7aad-48d3-9efe-21519c26bd33",
+        "transaction_date": "12-2-2020",
+        "transaction_amount": 361
+    },
+    {
+        "customer_name": "Glenda Larkins",
+        "customer_id": "0304cb51-4f8e-467a-ae92-ee63b9adce2b",
+        "transaction_date": "12-27-2020",
+        "transaction_amount": 169
+    }
+]
